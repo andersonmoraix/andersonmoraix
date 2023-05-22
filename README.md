@@ -1,9 +1,6 @@
 <h2>Bem vindo</h2>
 <p align="justify"> Anderson Antônio da Silva Morais - analista de dados </p>
 
-- 🌱 Estudando: Ciência da Computação e Economia.
-- 😄 Pronome: ele/dele
-
 <div> 
   Para entrar em contato segue os links:<br>
   <a href = "anderson.mouraissx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
